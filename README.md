@@ -19,7 +19,12 @@ If you wish to download the raw .ZIP or using the GitHub CLI, that works too.
 
 ## Building
 
-A CMake file will be created soon for cross-platform building.
+A Makefile is available for building.
+
+```txt
+Requirements:
+- G++ 10.0
+```
 
 ## Contributing
 
