@@ -4,6 +4,8 @@
 
 ## Contents
 
+This repository is for Team E's application.
+
 ## Cloning
 
 The method of cloning does not really matter, though we'll outline how to clone using Git.
